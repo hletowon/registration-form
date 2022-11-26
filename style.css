@@ -1,0 +1,16 @@
+body{
+    background-image: url(pics/PARENTAL%20ADVISORY.jpg);
+    text-decoration-color: yellow;
+    background-color: aqua; 
+}
+
+h1{
+    color: white;
+    font-size:21px;
+}
+
+h2{
+    color: white;
+    font-size: 18px;
+    align-content: flex-end; 
+}
